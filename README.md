@@ -1,3 +1,9 @@
 # Springboard
 
-This file serves as the readme for the Spingboard repository
+This file serves as the readme for the Spingboard - Capstone 1 repository
+
+The goal of the project / repository is to:
+  1) Submit a Capstone Project for Springboard
+  2) Submit an entry into the Kaggle Competition.
+  
+The subject of the project is:  Quora Insincere Questions Classification
