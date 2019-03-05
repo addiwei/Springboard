@@ -4,7 +4,7 @@
 1. Supervised learning multiclassification problem to predict whether a youtube video is viral.
 2. Includes preprocessing, EDA, feature selection, and modeling of both numeric and text data using feature union / pipelines.
 3. Logistic Regression, SVM, Stochastic Gradient Descent, KNN, Random Forest, Gradient Boosting Classifier, XGBoost.
-4. Utilizing count and density based features of text data, bag of words, stemmed, stop words, and W2V.
+4. Utilizing count and density based features of text data, bag of words, n-grams, stemmed, stop words, and Word2Vec.
 
 
 ### Intended Audience
