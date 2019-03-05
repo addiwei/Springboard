@@ -14,12 +14,12 @@
 1. Final Presentation on the Project
 2. Final Report on the Project
 3. Jupyter notebooks:
-    Jupyter Notebook 1 - Collecting data via Youtube API
-    Jupyter Notebook 2 - Numeric data preprocessing, visualization, hypothesis testing on correlation
-    Jupyter Notebook 3 - Modeling on the numeric data exclusively
-    Jupyter Notebook 4 - Text data preprorcessing, visualization, feature evaluation / selection
-    Jupyter Notebook 5 - Modeling on the text data exclusively
-    Jupyter Notebook 6 - Combined modeling on numeric + text data
+    1) Jupyter Notebook 1 - Collecting data via Youtube API
+    2) Jupyter Notebook 2 - Numeric data preprocessing, visualization, hypothesis testing on correlation
+    3) Jupyter Notebook 3 - Modeling on the numeric data exclusively
+    4) Jupyter Notebook 4 - Text data preprorcessing, visualization, feature evaluation / selection
+    5) Jupyter Notebook 5 - Modeling on the text data exclusively
+    6) Jupyter Notebook 6 - Combined modeling on numeric + text data
 4. youtube data file (1000 rows of data) 
 
 ### Getting Started / Requirements
