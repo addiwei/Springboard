@@ -1,10 +1,5 @@
 # Springboard
 
-This file serves as the readme for the Spingboard - Capstone 1 repository
+This file serves as the readme for the Spingboard Data Science Curricum
 
-The goal of the project / repository is to:
-  1) Submit a Capstone Project for Springboard
-  
-The subject of the project is:  Quora Insincere Questions Classification
-
-Link to the Data:  https://www.kaggle.com/c/quora-insincere-questions-classification/data  
+1. In this folder are all of the mini projects I have completed to complete my data science curriculum for Springboard.  Please feel free to browse and let me know if you have any questions.   My phone number is 706-386-6054
