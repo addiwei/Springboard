@@ -10,6 +10,17 @@
 ### Intended Audience
 1. Beginner to intermediate machine learning enthusiasts interested in learning how to tackle a machine learning project from start to finish.  
 
+### Included Files
+1. Final Presentation on the Project
+2. FInal Report on the Project
+3. Jupyter notebooks:
+  1) Jupyter Notebook 1 - Collecting data via Youtube API
+  2) Jupyter Notebook 2 - Numeric data preprocessing, visualization, hypothesis testing on correlation
+  3) Jupyter Notebook 3 - Modeling on the numeric data exclusively
+  4) Jupyter Notebook 4 - Text data preprorcessing, visualization, feature evaluation / selection
+  5) Jupyter Notebook 5 - Modeling on the text data exclusively
+  6) Jupyter Notebook 6 - Combined modeling on numeric + text data
+4. youtube data file (1000 rows of data) 
 
 ### Getting Started / Requirements
 1. Requires Python (at least 3.0), Jupyter Notebook, Python machine learning libraries (scikit learn, pandas, numpy, stats, matplotlib, seaborn, etc.) 
