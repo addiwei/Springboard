@@ -12,7 +12,7 @@
 
 ### Included Files
 1. Final Presentation on the Project
-2. FInal Report on the Project
+2. Final Report on the Project
 3. Jupyter notebooks:
     Jupyter Notebook 1 - Collecting data via Youtube API
     Jupyter Notebook 2 - Numeric data preprocessing, visualization, hypothesis testing on correlation
