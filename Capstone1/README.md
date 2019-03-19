@@ -23,7 +23,7 @@
 4. youtube data file (1000 rows of data) 
 
 ### Getting Started / Requirements
-1. Requires Python (at least 3.0), Jupyter Notebook, Python machine learning libraries (scikit learn, pandas, numpy, stats, matplotlib, seaborn, etc.) 
+1. Requires Python (at least 3.0), Jupyter Notebook, Python machine learning libraries (Please see new-requirements.txt for a list of packages and versions required) 
 2. Copy all of the jupyter notebooks, including youtube data file "youtube1000.csv" on to your local machine into a single folder.
 3. Run all of the notebooks in order from 2,3,4,5,6.  Notebook number 1 does not need to be run because it's the API code to collect the data.  You can use notebook 1 to collect more data.  
 Note: Notebooks that are labeled "modeling", will take a long time to run - this is normal and run time is dependent on hardware. 
