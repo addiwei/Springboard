@@ -21,6 +21,7 @@
     5) Jupyter Notebook 5 - Modeling on the text data exclusively
     6) Jupyter Notebook 6 - Combined modeling on numeric + text data
 4. youtube data file (1000 rows of data) 
+5. new-requirements.txt lists the packages and versions utilized for the project
 
 ### Getting Started / Requirements
 1. Requires Python (at least 3.0), Jupyter Notebook, Python machine learning libraries (Please see new-requirements.txt for a list of packages and versions required) 
