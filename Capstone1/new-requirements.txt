@@ -193,7 +193,7 @@ requests==2.19.1
 requests-oauthlib==1.0.0
 retrying==1.3.3
 rope==0.11.0
-rsa==4.0
+rsa==4.7
 ruamel-yaml==0.15.46
 s3transfer==0.1.13
 scikit-image==0.14.0
